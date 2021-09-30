@@ -1,3 +1,9 @@
+# Lab 4
+# Check given segments intersect
+
+# Hitesh Sharma
+# 189876
+
 def on_segment(p, q, r):
     '''Given three colinear points p, q, r, the function checks if 
     point q lies on line segment "pr"
